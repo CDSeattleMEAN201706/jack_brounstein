@@ -1,6 +1,6 @@
 # GitHub Organization
 
-I've created a [GitHub organization](https://github.com/orgs/CDSeattleMEAN052017) for this class.  Please create a repository in that organization with your name (so my repo is `jack_brounstein`) by clicking the green "New" button in the right-hand sidebar.  Each day, some assignments will be marked with **GitHub**; in addition to uploading those files to the platform, please also push them into your GitHub repo.  The hope is that this will help you become more familiar with using version control as well as make it convenient for me to check your progress at a glance.
+I've created a [GitHub organization](https://github.com/orgs/CDSeattleMEAN201706) for this class.  Please create a repository in that organization with your name (so my repo is `jack_brounstein`) by clicking the green "New" button in the right-hand sidebar.  Each day, some assignments will be marked with **GitHub**; in addition to uploading those files to the platform, please also push them into your GitHub repo.  The hope is that this will help you become more familiar with using version control as well as make it convenient for me to check your progress at a glance.
 
 Don't remember how to push things to GitHub?  Look up these commands:
 
