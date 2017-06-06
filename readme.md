@@ -40,7 +40,7 @@ Evolving Syntax|
 
 OOP
 
-Afternoon: Deck Of Cards or JS Circles hackathon
+Afternoon: Deck Of Cards hackathon
 
 Assignments|
 ---|
