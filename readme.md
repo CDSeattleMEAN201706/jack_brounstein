@@ -113,43 +113,35 @@ Modularized Mongoose|
 
 ### Tuesday, June 13
 
-Angular 4!  Note that we're working from the chapter labeled "Angular", on the second page of the MEAN material, not the "AngularJS" chapter, which is for Angular 1.
+Angular 4!  Note that we're working from the chapter labeled "Angular", not the "AngularJS" chapter, which is for Angular 1.
 
-TypeScript and Components.
+TypeScript and Component -- Data
 
 Assignments|
 ---|
-My first app|
-Facts **GitHub**|
-Currency **GitHub**|
-
-
-Optional|
----|
 Types and Classes|
-Interfaces|
-Pacman|
-Bomberman|
-Attribute Directives (Read this: There's some very useful material here.  It's just not really an assignment.)|
+My first app|
+Dojo Mall **GitHub**|
+Retro Barcode Generator **GitHub**|
 
 ### Wednesday, June 14
 
 Event listeners, nested components, inputs and output
 
-Read Architecture & Nested Components
+Read Component -- Events and Architecture
 
 Assignments|
 ---|
-Registration|
-Login|
-Login, Registration, and More **GitHub**|
-Components|
-Shared Data|
-Task List **GitHub**|
+US Time Zone Display|
+Registration **GitHub**|
+Power Levels|
+Quote Ranks **GitHub**|
 
 ### Thursday, June 15
 
 Angular routes and services
+
+Read Services and Routing
 
 Read Routing & Observables and Services, Promises, & HTTP.  Note that we'll be using the HTTP module tomorrow to make requests to our server once we have a full MEAN app.
 
@@ -157,9 +149,9 @@ In the afternoon, we'll build a custom pipe to filter an array of data
 
 Assignments|
 ---|
-Weather Report|
-Dashboard, Login, and Registration|
-Task Application|
+GitHub Score **GitHub**|
+Dojo Weather Forecast|
+Project Product Management|
 
 
 ### Friday, June 16
@@ -168,7 +160,7 @@ Angular review + full MEAN!
 
 When running a full MEAN application, we'll replace `ng serve` with `ng build -w` (and `nodemon server.js`, of course!)
 
-Five assignments may look like a lot, but the first four are all building individual pieces that are combined into MEAN Friends.  Also note that this chapter was written when we were still using Angular 1, so some of the specific code samples (anything client side, basically) no longer apply; use what we've learned to replicate the functionality that the platform describes.
+Please note that this chapter was written when we were still using Angular 1, so some of the specific code samples (anything client side, basically) no longer apply; use what we've learned to replicate the functionality that the platform describes.
 
 Assignments|
 ---|
