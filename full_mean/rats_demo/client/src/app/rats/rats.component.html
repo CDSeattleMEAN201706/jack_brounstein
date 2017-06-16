@@ -1,0 +1,10 @@
+<h1>RATS</h1>
+<h3>Here are some rats:</h3>
+<p>Filter: <input type="text" [(ngModel)]="search"></p>
+<ul>
+	<li *ngFor="let rat of all_rats | filter:search" (click)="select_rat(rat)" [ngClass]="{'selected': rat==selected_rat}">{{rat.name}}</li>
+</ul>
+
+<app-rats-create (create_rat_event)="create_rat($event)"></app-rats-create>
+
+<app-rats-detail *ngIf="selected_rat" [this_rat]="selected_rat"></app-rats-detail>

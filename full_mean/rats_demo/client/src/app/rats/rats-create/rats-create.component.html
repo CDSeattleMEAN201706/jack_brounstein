@@ -1,0 +1,7 @@
+<h3>New Rat</h3>
+<form (submit)="create_rat()">
+	<p>Name: <input type="text" name="name" [(ngModel)]="new_rat.name"></p>
+	<p>Age: <input type="number" name="age" [(ngModel)]="new_rat.age"></p>
+	<p>Favorite Food: <input type="text" name="favorite_food" [(ngModel)]="new_rat.favorite_food"></p>
+	<input type="submit" value="Create Rat">
+</form>
